@@ -1,1 +1,3 @@
-My account registration task
+Aleksejs Nekrasevics 
+
+Account registration task
